@@ -17,7 +17,7 @@
 
 Foi desenvolvido durante a participação da #DEV2021, com objetivo de alavancar os conhecimento e para fins de estudo.
 
-**Live Demo:** Você pode visualizar o resultado final do projeto através [desse link](https://italods.github.io/pokedex/)
+**Live Demo:** Você pode visualizar o resultado final do projeto através [desse link](https://italods.github.io/Pokedex/)
 
 ## 🚀 Tecnologias
 
