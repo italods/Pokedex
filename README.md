@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Ambiente de desenvolvimento para VSCode
 
 1. Abra a pasta do projeto em `VSCode`
-2. Instale as extenções `Live Server` e `Live Sass Compiler`
+2. Instale as extenções `Live Server` 
 3. Clique com o botão direito `index.html` > `Open with Live Server`
 4. Acesse o **endereço gerado** em seu navegador. 🚀
 
